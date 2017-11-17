@@ -56,7 +56,8 @@ h3 {
 }
 
 .my-background {
-  background-color: red;
+  background-image: url("../img/red-background.jpg");
+  background-size: cover;
   color: skyblue;
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
   border: 6px outset darkgrey;
@@ -86,7 +87,8 @@ h3 {
 }
 
 .other-things {
-  background-color: grey;
+  background-image: url("../img/grey-background.jpg");
+  background-size: cover;
   border: 6px outset magenta;
   text-shadow: -1px 0 purple, 0 1px purple, 1px 0 purple, 0 -1px purple;
   margin-top: 10px;
@@ -98,11 +100,14 @@ h3 {
 }
 
 .more-information {
-  font-size: 40pt;
   text-align: center;
+  margin-top: 10px;
+}
+
+.more-information button {
+  font-size: 14pt;
   font-weight: bold;
-  background-color: limegreen;
-  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  background-color: lightgrey;
 }
 
 .contact-me {
@@ -115,6 +120,29 @@ h3 {
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
   font-weight: bold;
   font-size: 25pt;
+}
+
+.favorite-websites h1 {
+  background-color: salmon;
+  font-weight: bold;
+  border: 2px solid black;
+}
+
+.favorite-websites .row .panel-heading {
+  background-color: orange;
+}
+
+.favorite-websites .row .panel-body {
+  background-color: skyblue;
+}
+
+.panel-default {
+  background-color: black;
+}
+
+.panel-body img {
+  height: 300px;
+  width: 100%;
 }
 
 blockquote {
@@ -132,4 +160,9 @@ blockquote footer {
   display: block;
   margin: 0 auto;
   border: 2px solid black;
+}
+
+#back {
+  float: right;
+  margin-bottom: 15px;
 }
