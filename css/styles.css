@@ -91,6 +91,13 @@ h3 {
   font-family: monospace;
 }
 
+.about-me img {
+  width: 19%;
+  padding: 5px;
+  border: 2px solid black;
+  background-color: brown;
+}
+
 .other-things {
   background-image: url("../img/grey-background.jpg");
   background-size: cover;
@@ -99,6 +106,7 @@ h3 {
   margin-top: 10px;
   padding-left: 20%;
   padding-bottom: 20px;
+  padding-right: 20px;
 }
 
 .other-things li {
