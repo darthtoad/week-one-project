@@ -6,7 +6,7 @@
 
 ## Description
 
-This application is a website for Samuel Gespass's programming portfolio. Just open index.html in your favorite browser after downloading or cloning from GitHub, and have fun!
+This application is a website for Samuel Gespass's programming portfolio. Just open index.html in your favorite browser after downloading or cloning from GitHub, and have fun! You can view a version of the site on: darthtoad.github.io/week-one-project/index.html
 
 ## Technologies used:
 
@@ -16,7 +16,7 @@ Bootstrap
 
 ## Known bugs:
 
-I'm having some trouble getting background images to work.
+I'm having some trouble getting background images to work. Also, the GitHub Pages version doesn't seem to load Bootstrap.
 
 ## Contact Details:
 
