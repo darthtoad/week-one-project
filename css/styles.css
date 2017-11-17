@@ -159,11 +159,20 @@ h3 {
   width: 100%;
 }
 
+.silly {
+  font-size: 10px;
+  color: orange;
+}
+
 blockquote {
   width: 350px;
   float: none;
   margin: 10px auto 10px auto;
   border: 10px outset grey;
+}
+
+#right-quote {
+  float: right;
 }
 
 blockquote footer {
