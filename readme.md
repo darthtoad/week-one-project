@@ -16,7 +16,7 @@ Bootstrap
 
 ## Known bugs:
 
-The GitHub Pages version doesn't seem to load Bootstrap. Any help with this issue would be appreciated.
+Please alert me to any bugs you've found. Thank you!
 
 ## Contact Details:
 
