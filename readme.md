@@ -16,7 +16,7 @@ Bootstrap
 
 ## Known bugs:
 
-I'm having some trouble getting background images to work. Also, the GitHub Pages version doesn't seem to load Bootstrap.
+The GitHub Pages version doesn't seem to load Bootstrap. Any help with this issue would be appreciated.
 
 ## Contact Details:
 
