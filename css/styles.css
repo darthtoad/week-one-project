@@ -167,12 +167,7 @@ h3 {
 blockquote {
   width: 350px;
   float: none;
-  margin: 10px auto 10px auto;
-  border: 10px outset grey;
-}
-
-#right-quote {
-  float: right;
+  border: 5px outset black;
 }
 
 blockquote footer {
@@ -188,4 +183,8 @@ blockquote footer {
 #back {
   float: right;
   margin-bottom: 15px;
+}
+
+#my-quote {
+  background-color: orange;
 }
