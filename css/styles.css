@@ -43,7 +43,6 @@ h3 {
   background-size: cover;
   border: 6px outset purple;
   padding: 30px;
-
 }
 
 .projects img {
@@ -144,6 +143,7 @@ h3 {
 
 .favorite-websites .row .panel-heading {
   background-color: orange;
+  font-size: 20pt;
 }
 
 .favorite-websites .row .panel-body {
@@ -187,4 +187,22 @@ blockquote footer {
 
 #my-quote {
   background-color: orange;
+}
+
+@media screen and (max-width: 992px) {
+  .panel-body img {
+    width: 50%;
+  }
+}
+
+@media screen and (max-width: 769px) {
+  .panel-body img {
+    width: 75%;
+  }
+}
+
+@media screen and (max-width: 553px) {
+  .panel-body img {
+    width: 100%;
+  }
 }
